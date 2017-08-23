@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealmQueryDemo</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Adress</string>
+    <string name="enter_number">Enter Nmber</string>
+    <string name="enter_email">Enter E-Mail</string>
+    <string name="search_number">Searh Number</string>
+</resources>
